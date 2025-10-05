@@ -125,7 +125,7 @@ export function Footer({ onNavigate }: FooterProps = {}) {
 
               {/* Discord Button */}
               <motion.button
-                onClick={() => window.open('https://discord.gg/dishagb', '_blank')}
+                onClick={() => window.open('https://discord.gg/4pZ6EkcMv9', '_blank')}
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.95 }}
                 className="w-full bg-gradient-to-r from-purple-600 to-purple-500 hover:from-purple-500 hover:to-purple-400 text-white px-6 py-3 rounded-lg flex items-center justify-center gap-2 hover-glow transition-all duration-300"
