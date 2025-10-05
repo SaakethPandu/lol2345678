@@ -61,7 +61,7 @@ export function DataCenters() {
     },
     {
       country: "India",
-      location: "Karnataka DC",
+      location: "Kolkata DC",
       status: "online",
       uptime: "99.9%",
       avgLatency: "29ms",
