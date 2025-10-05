@@ -1,6 +1,5 @@
 import { useEffect } from 'react';
-import previewImage from '../assets/logo.png';
-
+import previewImage from '../assets/9ba924ac5d4f35f69b4f35790956421f4e208b45.png';
 interface MetaTagsProps {
   title?: string;
   description?: string;
@@ -10,10 +9,10 @@ interface MetaTagsProps {
 }
 
 export function MetaTags({ 
-  title = "Radheycraft",
+  title = "DishaGB Hosting",
   description = "Your adorable hosting",
   image = previewImage,
-  url = "https://radheycraft.com",
+  url = "https://dishagb.shop",
   type = "website"
 }: MetaTagsProps) {
   useEffect(() => {
