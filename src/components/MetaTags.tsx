@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import previewImage from 'figma:asset/889167d8bf8e999da49defcbaa2abd8fd64c7723.png';
+import previewImage from '../assets/logo.png';
 
 interface MetaTagsProps {
   title?: string;
