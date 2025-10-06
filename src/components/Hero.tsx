@@ -151,7 +151,7 @@ export function Hero({ onNavigate }: HeroProps) {
             <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
               <Button 
                 size="lg" 
-                onClick={() => window.open('https://pannel.dishagb.shop', '_blank')}
+                onClick={() => window.open('https://panel.dishagb.shop/', '_blank')}
                 className="btn-primary px-10 py-4 text-lg rounded-xl font-medium shadow-lg"
               >
                 Launch Your Server
