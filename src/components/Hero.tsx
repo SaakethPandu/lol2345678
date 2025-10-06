@@ -115,7 +115,7 @@ export function Hero({ onNavigate }: HeroProps) {
               whileHover={{ scale: 1.05 }}
               className="glass p-6 rounded-2xl cyan-glow hover-bounce card-hover"
             >
-              <div className="text-3xl md:text-4xl font-bold text-primary-cyan mb-2">50K+</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary-cyan mb-2">50</div>
               <div className="text-medium-contrast text-sm">Active Players</div>
             </motion.div>
             <motion.div 
